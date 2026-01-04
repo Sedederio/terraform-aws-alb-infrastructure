@@ -1,0 +1,32 @@
+# Staging Environment Configuration
+# Copy this file to terraform.tfvars and update with your values
+
+project_name = "myapp"
+environment  = "staging"
+aws_region   = "us-east-1"
+
+# VPC Configuration
+vpc_cidr = "10.1.0.0/16"
+az_count = 3
+
+# EC2 Configuration
+instance_type = "t3.medium"
+ami_id        = ""
+key_name      = ""
+
+# Auto Scaling Configuration
+asg_min_size         = 2
+asg_max_size         = 6
+asg_desired_capacity = 2
+
+# HTTPS Configuration
+enable_https    = true
+certificate_arn = "arn:aws:acm:us-east-1:123456789012:certificate/your-cert-id"
+
+# DNS Configuration
+create_route53_record = true
+route53_zone_id       = "Z1234567890ABC"
+domain_name           = "staging.example.com"
+
+# Monitoring Configuration
+sns_email_endpoints = ["devops@example.com"]

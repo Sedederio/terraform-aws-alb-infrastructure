@@ -1,0 +1,32 @@
+# Development Environment Configuration
+# Copy this file to terraform.tfvars and update with your values
+
+project_name = "myapp"
+environment  = "dev"
+aws_region   = "us-east-1"
+
+# VPC Configuration
+vpc_cidr = "10.0.0.0/16"
+az_count = 2
+
+# EC2 Configuration
+instance_type = "t3.small"
+ami_id        = ""
+key_name      = ""
+
+# Auto Scaling Configuration
+asg_min_size         = 1
+asg_max_size         = 3
+asg_desired_capacity = 1
+
+# HTTPS Configuration
+enable_https    = false
+certificate_arn = ""
+
+# DNS Configuration
+create_route53_record = false
+route53_zone_id       = ""
+domain_name           = ""
+
+# Monitoring Configuration
+sns_email_endpoints = []
